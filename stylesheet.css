@@ -1,0 +1,18 @@
+.test
+{
+    height: 600px;
+    width: 900px;
+    margin: auto;
+    background-color: #b3fffc;
+}
+
+.test h1
+{
+    font-size: 30px;
+    font-family: serif;
+}
+
+input
+{
+    display: block;
+}
